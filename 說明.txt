@@ -1,4 +1,6 @@
-﻿GOOGLE 查 C++ CURL upload file php
+﻿C/C++/VB/MFC/Qt/C# 使用 命令模式(curl) 把檔案透過 PHP 上傳到 WEB SERVER
+
+GOOGLE 查 C++ CURL upload file php
 
 01.找到這一篇[ http://www.cppblog.com/TianShiDeBaiGu/archive/2013/09/05/203025.html ]
 
@@ -8,4 +10,6 @@
 
 04.修改BAT內要上傳檔案路徑
 
-05.
+05.執行BAT
+
+06.對應自己的部落格文章 https://goo.gl/JCYPqh
