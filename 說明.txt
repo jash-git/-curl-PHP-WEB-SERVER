@@ -1,0 +1,11 @@
+﻿GOOGLE 查 C++ CURL upload file php
+
+01.找到這一篇[ http://www.cppblog.com/TianShiDeBaiGu/archive/2013/09/05/203025.html ]
+
+02.直接去下載CURL 結果發現需要 VS2015 RUNTIME
+
+03.把PHP放到對應位置
+
+04.修改BAT內要上傳檔案路徑
+
+05.

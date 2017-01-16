@@ -1,0 +1,1 @@
+curl.exe -F "action=uploadloadfile_for_cs.php" -F "method=post" -F "file=@c:\\debug.txt" http://127.0.0.1:8080/uploadloadfile_for_cs/uploadloadfile_for_cs.php
